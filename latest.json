@@ -1,1 +1,1 @@
-{"version":"5.6","sha256":"00a4e87681f00d74865d10429438bf59e70e4e023502dd2c9f6dda90ea7cb7a9","notes":"Built-in audio player: play sounds right in Plok and click or arrow through all of them."}
+{"version":"5.7","sha256":"d349cf6a8db3748ff79967981ff745a4e0657d30574ca8fd8339863c49225c2b","notes":"Cleaner Storage lists, and system files like hiberfil.sys no longer show up."}
