@@ -1,1 +1,1 @@
-{"version":"5.9","sha256":"f0348885b4843cfa9925d43093c034b4b055606da4f19b0e7ba571d4582c31a4","notes":"Storage now groups related files, like all your Medal clips or screen recordings, into one entry."}
+{"version":"6.0","sha256":"29fd9c14265ccea03beffe8978f651295acc4484a23346bfab352291b3c27808","notes":"Cache blobs and weird machine-named files are hidden from Storage unless they're 2 GB or more."}
