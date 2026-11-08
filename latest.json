@@ -1,1 +1,1 @@
-{"version":"6.1","sha256":"d861aff3e6245280d45abe86d6032d64fe93ba07dd183170082ce15c42efd620","notes":"Fix: your own files inside your user folder were being counted as Windows files and hidden."}
+{"version":"6.2","sha256":"61f9995435fa3cde979660a0e61f3b347013cf4a4b1156cdd3241b5927c9df87","notes":"Select multiple files and folders in Storage and recycle them all at once."}
