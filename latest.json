@@ -1,1 +1,1 @@
-{"version":"5.7","sha256":"d349cf6a8db3748ff79967981ff745a4e0657d30574ca8fd8339863c49225c2b","notes":"Cleaner Storage lists, and system files like hiberfil.sys no longer show up."}
+{"version":"5.8","sha256":"3cd01c13c2bfbc77824a59b69df28c86cde2272135a061b73060dd5681603f2a","notes":"Files that belong to an app or game are grouped into one entry for that app."}
